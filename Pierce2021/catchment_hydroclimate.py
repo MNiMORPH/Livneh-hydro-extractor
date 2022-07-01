@@ -17,7 +17,7 @@ river_names = [
                'redwood',
                'root',
                'tremp',
-               'vermilion',
+               'vermillion',
                'yellow_medicine',
                'zumbro'
                ]
